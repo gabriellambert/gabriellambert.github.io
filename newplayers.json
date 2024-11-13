@@ -1,3 +1,82 @@
-{
+[
+  {
     "playerId":"18004457",
-}
+    "name":"Kevin De Bruyne",
+    "age":"32",
+    "currentAbility":190,
+    "potentialAbility":"190",
+    "minPotentialAbility":190,
+    "maxPotentialAbility":190,
+    "club":"Man City",
+    "nationalities":[
+      "BEL"
+    ],
+    "positions":["M (RLC)","AM (C)","M (RL)"],
+    "askingPrice":"£300M",
+    "contractLength":"30/6/2025",
+    "personality":"Professional",
+    "searchString":"Kevin De Bruyne",
+    "reputation":0,
+    "attributes":{
+      "technicals":
+        {
+          "crossing":19,
+          "corners":14,
+          "firstTouch":16,
+          "finishing":16,
+          "dribbling":16,
+          "heading":6,
+          "freekicks":17,
+          "marking":9,
+          "longThrow":7,
+          "longshots":17,
+          "passing":18,
+          "penalties":15,
+          "tackling":9,
+          "technique":18
+        },
+      "mentals":
+        {
+          "workrate":15,
+          "vision":20,
+          "teamwork":14,
+          "positioning":10,
+          "offTheBall":15,
+          "leadership":13,
+          "flair":16,
+          "determination":17,
+          "decisions":18,
+          "concentration":15,
+          "composure":14,
+          "bravery":13,
+          "anticipation":14,
+          "aggression":12
+        },
+      "physicals":
+        {
+          "acceleration":16,
+          "agility":13,
+          "balance":14,
+          "jumpingReach":10,
+          "naturalFitness":16,
+          "pace":14,
+          "strength":13,
+          "stamina":16
+        },
+      "goalkeeping":
+        {
+          "aerialReach":2,
+          "communication":3,
+          "commandOfArea":2,
+          "eccentricity":3,
+          "handling":2,
+          "kicking":3,
+          "oneVsOne":1,
+          "punching":3,
+          "reflexes":3,
+          "rushingOut":3,
+          "throwing":2
+        }
+    }
+  },
+]
